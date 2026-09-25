@@ -89,10 +89,3 @@ Review monthly earnings, recorded payments, advances, and the remaining balance.
 ![My reports](screenshots/13-employee-reports.png)
 
 Choose a month and download your personal payroll report when needed.
-
-## Safety notes
-
-- Do not share screenshots that contain unblurred personal or financial information.
-- Check the selected employee and month before recording hours, payments, or advances.
-- Correct financial history through the application's reversal workflow rather than deleting records manually.
-- Locked payroll months must be reopened by an authorized administrator before changes can be made.
